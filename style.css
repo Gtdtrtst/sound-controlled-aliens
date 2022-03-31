@@ -1,0 +1,30 @@
+body{
+    background: lightslategrey;
+    font-family: 'Lobster', cursive;
+}
+.header_div{
+    background: white;
+    color: black;
+}
+.header_div p{
+    color: red;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
+.footer{
+    color: black;
+    background: white;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    font-size: 18px;
+    line-height: 3;
+}
